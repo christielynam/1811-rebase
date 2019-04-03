@@ -10,4 +10,5 @@ const planLunch = (foods) => (
   foods
 );
 
-planLunch(['pizza', 'burrito']);
+console.log(planLunch(['pizza', 'burrito']));
+
